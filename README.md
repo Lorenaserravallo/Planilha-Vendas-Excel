@@ -1,6 +1,5 @@
-<img width="1562" height="373" alt="image" src="https://github.com/user-attachments/assets/91316e89-7ac2-4802-8175-4b79b1acea50" />
-
 # Planilha de Vendas no Excel — Projeto Básico Analítico 🦾
+<img width="1562" height="373" alt="image" src="https://github.com/user-attachments/assets/91316e89-7ac2-4802-8175-4b79b1acea50" />
 
 Projeto de organização e análise básica de vendas em Excel utilizando PROCV, SE, OU, fórmulas condicionais e tabelas estruturadas para criação de relações entre múltiplas abas dentro de uma planilha analítica.
 
